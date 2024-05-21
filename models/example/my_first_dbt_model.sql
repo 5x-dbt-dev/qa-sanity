@@ -12,7 +12,7 @@
 
 with source_data as (
 
-    select 123 as id
+    select 1234 as id
     union all
     select null as id
 
